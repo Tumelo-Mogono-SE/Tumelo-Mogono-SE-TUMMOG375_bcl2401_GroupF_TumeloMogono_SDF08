@@ -1,21 +1,11 @@
-# czMbd9uP
+*This is a Portfolio project to display my info and projects I have worked on.
 
-Quick start:
+*I made changes to the portfolio item pages for all six projects.
 
-```
-$ npm install
-$ npm start
-````
+*I added divs outside the picture and new divs below the picture to add links to the website of the specific project and the github repo.
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+*I added new css code to place the icon which links the project to their site and github repo in the middle under the image and added hover effects.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+*I had challenges with making the icons to display inside the image when hovered over.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+*The javascript utilised new elements I didn't know before such as a new way to make a functioin. And also the function to go make the bar appear when pressing the burger icon.
